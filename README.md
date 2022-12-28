@@ -2,5 +2,5 @@
 
 🚀 Clonar la página principal de Google.
 
-- 😄 Página web del proyecto: [Clon de la página principal de Google](https://llinagz.github.io/proyecto-google-clone/).
+- 😄 Página web del proyecto para desktop: [Clon de la página principal de Google](https://llinagz.github.io/proyecto-google-clone/).
 
